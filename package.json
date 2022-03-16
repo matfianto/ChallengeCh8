@@ -1,0 +1,26 @@
+{
+  "name": "react-monolith",
+  "version": "1.0.0",
+  "description": "Create monolithic application using React and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qnaci/react-monolith.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qnaci/react-monolith/issues"
+  },
+  "homepage": "https://github.com/qnaci/react-monolith#readme",
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.5.0",
+    "formik": "^2.2.9",
+    "yup": "^0.32.11"
+  }
+}
